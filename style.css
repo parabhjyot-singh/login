@@ -1,0 +1,52 @@
+#parent {
+    list-style: none;
+    width: 100%;
+    height: 90px;
+    margin: 0;
+    padding: 0;
+    white-space: nowrap;
+    overflow-x: auto;
+    overflow-y: hidden;
+        display: inline-block;
+}
+#h1{
+	text-align: center;
+	color:white;
+	display:inline;   
+	padding-left: 37%;
+}
+
+#parent > li {
+    display: inline-block;
+    width: 14%;
+    height: 30%;
+    background-color:#000000; 
+  position: top;
+}
+#parent >image{
+	width: 50%;
+}
+#login{
+	padding-left: 20px;text-align: center;padding-right: 20px;
+}
+
+ #form >input{
+
+ }
+#input{
+	
+padding-left: 60px;text-align: center;padding-right: 60px;
+}
+#header{
+ background-color: #000000;
+}
+#form{
+padding-left: 40%;	
+}
+#signup{
+padding-left: 49%;  
+text-decoration-color: "Red";
+}
+#form>button{
+margin-left: 12%;	padding-left: 5%;padding-right: 5%;
+}  a { color: #FF0000;font-size: 20px; }
